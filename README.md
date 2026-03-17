@@ -1,7 +1,8 @@
 # TP4 - Analyse de donnees sur les jeux Steam avec des librairies scientifiques
 
 ## Directives
-:alarm_clock: Date de remise : Le 12 avril 2026 avant minuit
+
+:alarm_clock: Date de remise : 12 avril 2026 à 23:59
 
 À remettre sur Github (la correction peut se baser sur votre dernier `git push` effectué avant la date limite).
 
