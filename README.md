@@ -61,10 +61,10 @@ pip install jupyter
 - Installez l'extension Jupyter developpee par Microsoft.
 
 Elle devrait ressembler a ceci :
-![image](../images/jupyter.png)
+![image](/images/jupyter.png)
 
 Si vous devez revenir a une version precedente de l'extension, vous pouvez suivre le meme principe que dans l'exemple ci-dessous :
-![image](../images/Exemple_jupyter_2.png)
+![image](/images/Exemple_jupyter_2.png)
 
 Une fois Jupyter et l'extension installes, vous pouvez ouvrir le notebook `TP4.ipynb` dans ce dossier et suivre les instructions.
 
